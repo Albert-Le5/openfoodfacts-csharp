@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
+using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using OpenFoodFacts.Models;
@@ -10,7 +11,8 @@ namespace OpenFoodFacts
 {
     public class ApiConnector : IApiConnector
     {
-        private static readonly Uri baseUri = new Uri("https://world.openfoodfacts.org/api/v0/");
+        private static readonly Uri baseUri = new Uri("https://world.openfoodfacts.org/");
+        private static readonly string apiSubUrl = "api/v0/";
 
         private string country;
         private string locale;
@@ -22,25 +24,39 @@ namespace OpenFoodFacts
             this.locale = locale;
         }
 
-        Product IApiConnector.GetProductByCode(string code)
+        #region IApiConnector
+        public bool IsLoggedIn { get; private set; } = false;
+
+        public async Task<Product> GetProductByCodeAsync(string code)
         {
-            var task = client.GetStringAsync(new Uri(baseUri, String.Format("product/{0}.json", code)));
-            task.Wait();
-            var body = task.Result;
+            var body = await client.GetStringAsync(new Uri(baseUri, apiSubUrl + String.Format("product/{0}.json", code)));
             var json = JObject.Parse(body);
             if (json["status"].ToObject<int>() != 1) return null;
             var product = json["product"].ToObject<Product>();
             return product;
         }
 
-        bool IApiConnector.Login(string user, string pass)
+        public async Task<bool> LoginAsync(string user, string pass)
         {
-            throw new NotImplementedException();
+            var formVariables = new List<KeyValuePair<string, string>>(3);
+            formVariables.Add(new KeyValuePair<string, string>(".submit", "Sign+in"));
+            formVariables.Add(new KeyValuePair<string, string>("user_id", user));
+            formVariables.Add(new KeyValuePair<string, string>("password", pass));
+            
+            var res = await client.PostAsync(new Uri(baseUri, "cgi/session.pl"), new FormUrlEncodedContent(formVariables));
+            var content = await res.Content.ReadAsStringAsync();
+            return content.Contains("You are connected as");
         }
 
-        bool IApiConnector.Logout()
+        public async Task<bool> LogoutAsync()
         {
-            throw new NotImplementedException();
+            var formVariables = new List<KeyValuePair<string, string>>(1);
+            formVariables.Add(new KeyValuePair<string, string>(".submit", "Sign-out"));
+
+            var res = await client.PostAsync(new Uri(baseUri, "cgi/session.pl"), new FormUrlEncodedContent(formVariables));
+            var content = await res.Content.ReadAsStringAsync();
+            return content.Contains("See you soon!");
         }
+        #endregion IApiConnector
     }
 }

@@ -2,13 +2,17 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace OpenFoodFacts
 {
     public interface IApiConnector
     {
-        bool Login(string user, string pass);
-        bool Logout();
-        Product GetProductByCode(string code);
+
+        bool IsLoggedIn { get; }
+
+        Task<bool> LoginAsync(string user, string pass);
+        Task<bool> LogoutAsync();
+        Task<Product> GetProductByCodeAsync(string code);
     }
 }
