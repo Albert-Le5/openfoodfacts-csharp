@@ -1,6 +1,4 @@
-# openfoodfacts-go
-
-[![Build Status](https://travis-ci.org/openfoodfacts/openfoodfacts-go.svg?branch=master)](https://travis-ci.org/openfoodfacts/openfoodfacts-go)
+# openfoodfacts-csharp
 
 ## About
 
