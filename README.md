@@ -6,7 +6,7 @@ This library is for accessing [OpenFoodFacts](http://world.openfoodfacts.org/) d
 
 Use of the OpenFoodFacts database is subject to the [OpenFoodFacts Terms of Use](http://world.openfoodfacts.org/terms-of-use), please read them before using this library in your application.
 
-Use of this library is governed by the MIT license which can be found in the [LICENSE.txt](LICENSE.txt) file.
+Use of this library is governed by the MIT license which can be found in the [LICENSE](LICENSE) file.
 
 ## Documentation
 
