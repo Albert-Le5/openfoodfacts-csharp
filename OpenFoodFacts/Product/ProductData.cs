@@ -1,13 +1,14 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
+using OpenFoodFacts.Ingredient;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace OpenFoodFacts.Models
+namespace OpenFoodFacts.Product
 {
     [JsonObject()]
-    public class Product
+    public class ProductData
     {
         #region IDs
         [JsonProperty(PropertyName = "id")]
@@ -183,7 +184,7 @@ namespace OpenFoodFacts.Models
         [JsonProperty(PropertyName = "fruits-vegetables-nuts_100g_estimate")]
         public float FruitsVegetablesNuts100GEstimate { get; set; }
         [JsonProperty(PropertyName = "ingredients")]
-        public List<Ingredient> Ingredients { get; set; }
+        public List<IngredientData> Ingredients { get; set; }
         [JsonProperty(PropertyName = "ingredients_debug")]
         public List<string> IngredientsDebug { get; set; }
         [JsonProperty(PropertyName = "ingredients_from_or_that_may_be_from_palm_oil_n")]

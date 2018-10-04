@@ -1,17 +1,17 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using OpenFoodFacts.Models;
+using OpenFoodFacts.Product;
 using System;
 using System.Net.Http;
 
 namespace OpenFoodFacts.Test
 {
     [TestClass]
-    public class ProductTest
+    public class ProductDataTest
     {
         [TestMethod]
-        public void ProductDeserialize()
+        public void ProductDataDeserialize()
         {
             HttpClient client = new HttpClient();
             var uri = new Uri("https://world.openfoodfacts.org/api/v0/");
@@ -19,7 +19,7 @@ namespace OpenFoodFacts.Test
             task.Wait();
             var body = task.Result;
             var json = JObject.Parse(body);
-            var product = json["product"].ToObject<Product>();
+            var product = json["product"].ToObject<ProductData>();
             Console.WriteLine(JsonConvert.SerializeObject(product, Formatting.Indented));
         }
     }

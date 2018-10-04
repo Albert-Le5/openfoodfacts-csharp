@@ -3,10 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace OpenFoodFacts.Models
+namespace OpenFoodFacts.Ingredient
 {
     [JsonObject()]
-    public class Ingredient
+    public class IngredientData
     {
         [JsonProperty(PropertyName = "id")]
         public string Id { get; set; }

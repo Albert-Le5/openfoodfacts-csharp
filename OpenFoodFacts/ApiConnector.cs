@@ -5,58 +5,46 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using OpenFoodFacts.Models;
+using OpenFoodFacts.Login;
+using OpenFoodFacts.Product;
+using OpenFoodFacts.Tools;
 
 namespace OpenFoodFacts
 {
-    public class ApiConnector : IApiConnector
+    public class ApiConnector
     {
-        private static readonly Uri baseUri = new Uri("https://world.openfoodfacts.org/");
-        private static readonly string apiSubUrl = "api/v0/";
+        private readonly ILoginApi loginApi;
+        private readonly IProductApi productApi;
 
-        private string country;
-        private string locale;
-        private HttpClient client = new HttpClient();
+        private readonly Uri baseUri;
+        private readonly HttpClient client;
 
-        public ApiConnector(string country = "", string locale = "")
+        public ApiConnector(string country = "world", string locale = "en", bool isTest = false)
         {
-            this.country = country;
-            this.locale = locale;
+            baseUri = Utils.BuildBaseUri(country, locale, isTest);
+            client = new HttpClient();
+
+            loginApi = new LoginApi(baseUri, ref client);
+            productApi = new ProductApi(baseUri, ref client);
         }
 
-        #region IApiConnector
-        public bool IsLoggedIn { get; private set; } = false;
-
-        public async Task<Product> GetProductByCodeAsync(string code)
+        #region IProductApi Bridge
+        public async Task<ProductData> GetProductByCodeAsync(string code)
         {
-            var body = await client.GetStringAsync(new Uri(baseUri, apiSubUrl + String.Format("product/{0}.json", code)));
-            var json = JObject.Parse(body);
-            if (json["status"].ToObject<int>() != 1) return null;
-            var product = json["product"].ToObject<Product>();
-            return product;
+            return await productApi.GetAsync(code);
         }
+        #endregion IProductApi Bridge
 
+        #region ILoginApi Bridge
         public async Task<bool> LoginAsync(string user, string pass)
         {
-            var formVariables = new List<KeyValuePair<string, string>>(3);
-            formVariables.Add(new KeyValuePair<string, string>(".submit", "Sign+in"));
-            formVariables.Add(new KeyValuePair<string, string>("user_id", user));
-            formVariables.Add(new KeyValuePair<string, string>("password", pass));
-            
-            var res = await client.PostAsync(new Uri(baseUri, "cgi/session.pl"), new FormUrlEncodedContent(formVariables));
-            var content = await res.Content.ReadAsStringAsync();
-            return content.Contains("You are connected as");
+            return await loginApi.LoginAsync(user, pass);
         }
 
         public async Task<bool> LogoutAsync()
         {
-            var formVariables = new List<KeyValuePair<string, string>>(1);
-            formVariables.Add(new KeyValuePair<string, string>(".submit", "Sign-out"));
-
-            var res = await client.PostAsync(new Uri(baseUri, "cgi/session.pl"), new FormUrlEncodedContent(formVariables));
-            var content = await res.Content.ReadAsStringAsync();
-            return content.Contains("See you soon!");
+            return await loginApi.LogoutAsync();
         }
-        #endregion IApiConnector
+        #endregion ILoginApi Bridge
     }
 }

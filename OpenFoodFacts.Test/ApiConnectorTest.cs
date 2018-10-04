@@ -12,7 +12,7 @@ namespace OpenFoodFacts.Test
         public void Login_ShouldTrue()
         {
             var api = new ApiConnector();
-            var res = api.LoginAsync("test_user", "test_password").Result;
+            var res = api.LoginAsync("off", "off").Result;
             Assert.IsTrue(res);
         }
 
