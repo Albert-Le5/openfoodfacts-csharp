@@ -45,8 +45,7 @@ namespace OpenFoodFacts.Product
 
             var body = await client.GetStringAsync(targetUri);
             var json = JObject.Parse(body);
-            if (json["status"].ToObject<int>() != 1) return new List<ProductData>();
-            var products = json["product"].ToObject<List<ProductData>>();
+            var products = json["products"].ToObject<List<ProductData>>();
             return products;
         }
     }

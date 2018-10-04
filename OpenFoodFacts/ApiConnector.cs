@@ -33,6 +33,11 @@ namespace OpenFoodFacts
         {
             return await productApi.GetAsync(code);
         }
+
+        public async Task<IEnumerable<ProductData>> GetProductsByFacets(IDictionary<string,string> query)
+        {
+            return await productApi.GetByFacets(query);
+        }
         #endregion IProductApi Bridge
 
         #region ILoginApi Bridge
