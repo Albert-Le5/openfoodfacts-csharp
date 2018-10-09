@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using FluentAssertions;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using OpenFoodFacts.Ingredient;
@@ -36,7 +37,7 @@ namespace OpenFoodFacts.Test.Ingredient
                 Percent = 42.42f,
             };
             var json = JsonConvert.SerializeObject(complete);
-            Assert.AreEqual(completeJsonData.ToString(Formatting.None), json);
+            json.Should().Be(completeJsonData.ToString(Formatting.None));
 
             var incomplete = new IngredientData
             {
@@ -47,23 +48,23 @@ namespace OpenFoodFacts.Test.Ingredient
             var incompleteJsonStr = incompleteJsonData.ToString(Formatting.None);
             var i = incompleteJsonStr.LastIndexOf('}');
             incompleteJsonStr = incompleteJsonStr.Remove(i, 1);
-            Assert.IsTrue(json.StartsWith(incompleteJsonStr), $"{json} doesn't start with {incompleteJsonStr}");
+            json.StartsWith(incompleteJsonStr).Should().Be(true);
         }
 
         [TestMethod]
         public void IngredientDataDeserializationTest()
         {
             var obj = JsonConvert.DeserializeObject<IngredientData>(completeJsonData.ToString());
-            Assert.AreEqual(completeJsonData["id"], obj.Id);
-            Assert.AreEqual(completeJsonData["text"], obj.Text);
-            Assert.AreEqual(completeJsonData["rank"], obj.Rank);
-            Assert.AreEqual(completeJsonData["percent"], obj.Percent);
+            obj.Id.Should().Be(completeJsonData["id"].ToString());
+            obj.Text.Should().Be(completeJsonData["text"].ToString());
+            obj.Rank.Should().Be(completeJsonData["rank"].ToObject<int>());
+            obj.Percent.Should().Be(completeJsonData["percent"].ToObject<float>());
 
             obj = JsonConvert.DeserializeObject<IngredientData>(incompleteJsonData.ToString());
-            Assert.AreEqual(completeJsonData["id"], obj.Id);
-            Assert.AreEqual(completeJsonData["text"], obj.Text);
-            Assert.IsNull(obj.Rank);
-            Assert.IsNull(obj.Percent);
+            obj.Id.Should().Be(completeJsonData["id"].ToString());
+            obj.Text.Should().Be(completeJsonData["text"].ToString());
+            obj.Rank.Should().BeNull();
+            obj.Percent.Should().BeNull();
         }
     }
 }
