@@ -17,6 +17,7 @@ namespace OpenFoodFacts.Login
         {
             this.baseUri = baseUri;
             this.client = client;
+            IsLoggedIn = false;
         }
 
         public async Task<bool> LoginAsync(string user, string pass)
@@ -30,7 +31,8 @@ namespace OpenFoodFacts.Login
             var res = await client.PostAsync(targetUri, new FormUrlEncodedContent(formVariables));
 
             var content = await res.Content.ReadAsStringAsync();
-            return content.Contains("You are connected as");
+            IsLoggedIn = content.Contains("You are connected as");
+            return IsLoggedIn;
         }
 
         public async Task<bool> LogoutAsync()
@@ -42,7 +44,8 @@ namespace OpenFoodFacts.Login
             var res = await client.PostAsync(targetUri, new FormUrlEncodedContent(formVariables));
 
             var content = await res.Content.ReadAsStringAsync();
-            return content.Contains("See you soon!");
+            IsLoggedIn = !content.Contains("See you soon!");
+            return !IsLoggedIn;
         }
     }
 }
