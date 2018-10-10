@@ -19,14 +19,24 @@ namespace OpenFoodFacts
         private readonly Uri baseUri;
         private readonly HttpClient client;
 
-        public ApiConnector(string country = "world", string locale = "en", bool isTest = false)
+        public ApiConnector(string country = "world", string locale = "en", bool useTestServer = false)
         {
-            baseUri = Utils.BuildBaseUri(country, locale, isTest);
+            baseUri = Utils.BuildBaseUri(country, locale, useTestServer);
             client = new HttpClient();
 
             loginApi = new LoginApi(baseUri, ref client);
             productApi = new ProductApi(baseUri, ref client);
         }
+
+        public ApiConnector(string country, string locale, bool useTestServer, ILoginApi loginApi, IProductApi productApi)
+        {
+            baseUri = Utils.BuildBaseUri(country, locale, useTestServer);
+            client = new HttpClient();
+
+            this.loginApi = loginApi;
+            this.productApi = productApi;
+        }
+
 
         #region IProductApi Bridge
         public async Task<ProductData> GetProductByCodeAsync(string code)
