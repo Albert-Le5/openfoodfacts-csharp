@@ -1,0 +1,634 @@
+{
+  "code": "3222475893421",
+  "product": {
+    "debug_param_sorted_langs": [ "fr" ],
+    "rev": 17,
+    "product_name_fr": "Croque Monsieur Maxi",
+    "languages": { "en:french": 6 },
+    "additives_prev": " [ pain-de-mie-49 -> fr:pain-de-mie-49  ]  [ pain-de-mie -> fr:pain-de-mie  ]  [ pain-de -> fr:pain-de  ]  [ pain -> fr:pain  ]  [ 3 -> en:fd-c  ]  [ farine-de-ble -> fr:farine-de-ble  ]  [ farine-de -> fr:farine-de  ]  [ farine -> fr:farine  ]  [ eau -> fr:eau  ]  [ huile-de-colza -> fr:huile-de-colza  ]  [ huile-de -> fr:huile-de  ]  [ huile -> fr:huile  ]  [ sel -> fr:sel  ]  [ dextrose -> fr:dextrose  ]  [ levure -> fr:levure  ]  [ conservateur -> fr:conservateur  ]  [ propionate-de-calcium -> en:e282  -> exists  -- ok  ]  [ emulsifiants -> fr:emulsifiants  ]  [ mono-et-diglycerides-d-acides-gras -> en:e471  -> exists  -- ok  ]  [ lecithines -> en:e322  -> exists  -- ok  ]  [ gluten-de-ble -> fr:gluten-de-ble  ]  [ gluten-de -> fr:gluten-de  ]  [ gluten -> fr:gluten  ]  [ epaississant -> fr:epaississant  ]  [ gomme-xanthane -> en:e415  -> exists  -- ok  ]  [ agent-de-traitement-de-la-farine -> fr:agent-de-traitement-de-la-farine  ]  [ agent-de-traitement-de-la -> fr:agent-de-traitement-de-la  ]  [ agent-de-traitement-de -> fr:agent-de-traitement-de  ]  [ agent-de-traitement -> fr:agent-de-traitement  ]  [ agent-de -> fr:agent-de  ]  [ agent -> fr:agent  ]  [ acide-ascorbique -> en:e300  -> exists  -- ok  ]  [ fromage-fondu-28 -> fr:fromage-fondu-28  ]  [ fromage-fondu -> fr:fromage-fondu  ]  [ fromage -> fr:fromage  ]  [ fromages-14 -> fr:fromages-14  ]  [ fromages -> fr:fromages  ]  [ dont-emmental-4 -> fr:dont-emmental-4  ]  [ dont-emmental -> fr:dont-emmental  ]  [ dont -> fr:dont  ]  [ 2 -> en:fd-c  ]  [ beurre -> fr:beurre  ]  [ eau -> fr:eau  ]  [ proteines-de-lait -> fr:proteines-de-lait  ]  [ proteines-de -> fr:proteines-de  ]  [ proteines -> fr:proteines  ]  [ amidons-transformes-de-mais-et -> fr:amidons-transformes-de-mais-et  ]  [ amidons-transformes-de-mais -> fr:amidons-transformes-de-mais  ]  [ amidons-transformes-de -> fr:amidons-transformes-de  ]  [ amidons-transformes -> fr:amidons-transformes  ]  [ amidons -> fr:amidons  ]  [ ou-pomme-de-terre -> fr:ou-pomme-de-terre  ]  [ ou-pomme-de -> fr:ou-pomme-de  ]  [ ou-pomme -> fr:ou-pomme  ]  [ ou -> fr:ou  ]  [ lactoserum -> fr:lactoserum  ]  [ sels-de-fonte -> fr:sels-de-fonte  ]  [ sels-de -> fr:sels-de  ]  [ sels -> fr:sels  ]  [ citrates-de-sodium -> en:e331  -> exists  -- ok  ]  [ polyphosphates -> en:e452  -> exists  -- ok  ]  [ gelifiant -> fr:gelifiant  ]  [ carraghenanes -> en:e407  -> exists  -- ok  ]  [ jambon-cuit-choix-sans-polyphosphates-14 -> fr:jambon-cuit-choix-sans-polyphosphates-14  ]  [ jambon-cuit-choix-sans-polyphosphates -> fr:jambon-cuit-choix-sans-polyphosphates  ]  [ jambon-cuit-choix-sans -> fr:jambon-cuit-choix-sans  ]  [ jambon-cuit-choix -> fr:jambon-cuit-choix  ]  [ jambon-cuit -> fr:jambon-cuit  ]  [ jambon -> fr:jambon  ]  [ 7 -> en:fd-c  ]  [ jambon-de-porc -> fr:jambon-de-porc  ]  [ jambon-de -> fr:jambon-de  ]  [ jambon -> fr:jambon  ]  [ eau -> fr:eau  ]  [ sel -> fr:sel  ]  [ sirop-de-glucose -> fr:sirop-de-glucose  ]  [ sirop-de -> fr:sirop-de  ]  [ sirop -> fr:sirop  ]  [ dextrose -> fr:dextrose  ]  [ aromes -> fr:aromes  ]  [ conservateurs -> fr:conservateurs  ]  [ erythorbate-de-sodium -> en:e316  -> exists  -- ok  ]  [ nitrite-de-sodium -> en:e250  -> exists  -- ok  ]  [ matiere-grasse-vegetale-raffinee-de-colza -> fr:matiere-grasse-vegetale-raffinee-de-colza  ]  [ matiere-grasse-vegetale-raffinee-de -> fr:matiere-grasse-vegetale-raffinee-de  ]  [ matiere-grasse-vegetale-raffinee -> fr:matiere-grasse-vegetale-raffinee  ]  [ matiere-grasse-vegetale -> fr:matiere-grasse-vegetale  ]  [ matiere-grasse -> fr:matiere-grasse  ]  [ matiere -> fr:matiere  ]  [ beurre-concentre -> fr:beurre-concentre  ]  [ beurre -> fr:beurre  ]  [ colorant -> fr:colorant  ]  [ carotenoides -> en:e160  -> exists  -- ok  ] ",
+    "manufacturing_places_debug_tags": [],
+    "purchase_places_debug_tags": [],
+    "countries_debug_tags": [],
+    "correctors_tags": [ "tacinte", "tacite", "date-limite-app" ],
+    "nutrition_data_per": "serving",
+    "stores_debug_tags": [],
+    "serving_quantity": 150,
+    "vitamins_tags": [],
+    "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.100.jpg",
+    "update_key": "nova20180918",
+    "interface_version_created": "upload_photos.pl - version 2016/09/29",
+    "ingredients_from_palm_oil_n": 0,
+    "link": "",
+    "categories_hierarchy": [ "en:fresh-foods", "en:meals", "en:sandwiches", "en:fresh-meals", "fr:croque-monsieur" ],
+    "unknown_ingredients_n": 5,
+    "last_edit_dates_tags": [ "2018-08-25", "2018-08", "2018" ],
+    "interface_version_modified": "20150316.jqm2",
+    "ingredients_original_tags": [ "fr:pain-de-mie", "fr:fromage-fondu", "fr:jambon cuit choix sans polyphosphates", "fr:matière grasse végétale raffinée de colza", "en:concentrated-butter", "en:colour", "fr:carotenoide", "en:wheat-flour", "en:water", "en:colza-oil", "en:salt", "en:dextrose", "en:yeast", "en:preservative", "fr:propionate-de-calcium", "en:emulsifier", "fr:mono", "fr:diglycerides-d-acides-gras", "fr:lecithine", "fr:gluten-de-ble", "en:thickener", "en:xanthan-gum", "en:flour-treatment-agent", "en:ascorbic-acid", "fr:fromage", "fr:dont _emmental_", "en:butter", "en:water", "en:milk-protein", "en:modified-corn-starch", "en:potatoes", "en:whey", "en:emulsifying-salt", "fr:citrate-de-sodium", "fr:polyphosphate", "en:gelling-agent", "fr:carraghenane", "fr:jambon-de-porc", "en:water", "en:salt", "en:glucose-syrup", "en:dextrose", "en:flavouring", "en:preservative", "fr:erythorbate-de-sodium", "fr:nitrite-de-sodium" ],
+    "traces": "Céleri,Crustacés,Œufs,Poisson,Mollusques,Moutarde,Fruits à coque,Soja",
+    "origins_tags": [],
+    "ingredients_that_may_be_from_palm_oil_tags": [ "e471-mono-et-diglycerides-d-acides-gras-alimentaires", "huile-vegetale" ],
+    "stores": "Casino",
+    "expiration_date": "",
+    "traces_from_ingredients": "",
+    "pnns_groups_1_tags": [ "composite-foods" ],
+    "states_tags": [ "en:to-be-checked", "en:complete", "en:nutrition-facts-completed", "en:ingredients-completed", "en:expiration-date-to-be-completed", "en:packaging-code-to-be-completed", "en:characteristics-completed", "en:categories-completed", "en:brands-completed", "en:packaging-completed", "en:quantity-completed", "en:product-name-completed", "en:photos-validated", "en:photos-uploaded" ],
+    "labels_prev_hierarchy": [ "en:palm-oil-free", "fr:Experimentation Etiquetage Nutritionnel 2016", "fr:Experimentation NutriScore", "fr:Expérimentation NutriScore D" ],
+    "image_ingredients_small_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/ingredients_fr.12.200.jpg",
+    "manufacturing_places": "",
+    "ingredients_debug": [ "Pain de mie 49", ",", null, null, null, "3% ", "(", "(", null, null, "farine de _blé_", " - ", " - ", " - ", null, "eau", " - ", " - ", " - ", null, "huile de colza", " - ", " - ", " - ", null, "sel", " - ", " - ", " - ", null, "dextrose", " - ", " - ", " - ", null, "levure", " - ", " - ", " - ", null, "conservateur ", ":", ":", null, null, "  propionate de calcium", " - ", " - ", " - ", null, "émulsifiants ", ":", ":", null, null, "  mono- et diglycérides d'acides gras ", ",", null, null, null, " lécithines", " - ", " - ", " - ", null, "_gluten de blé_", " - ", " - ", " - ", null, "épaississant ", ":", ":", null, null, "  gomme xanthane", " - ", " - ", " - ", null, "agent de traitement de la farine ", ":", ":", null, null, "  acide ascorbique)", " - ", " - ", " - ", null, "_fromage_ fondu 28% ", "[", "[", null, null, "_fromages_ 14% ", "(", "(", null, null, "dont _emmental_ 4", ",", null, null, null, "2%)", " - ", " - ", " - ", null, "_beurre_", " - ", " - ", " - ", null, "eau", " - ", " - ", " - ", null, "protéines de lait", " - ", " - ", " - ", null, "amidons transformés de maïs et", "/", null, null, "/", "ou pomme de terre", " - ", " - ", " - ", null, "_lactosérum_", " - ", " - ", " - ", null, "sels de fonte ", ":", ":", null, null, "  citrates de sodium ", ",", null, null, null, " polyphosphates", " - ", " - ", " - ", null, "gélifiant ", ":", ":", null, null, "  carraghénanes]", " - ", " - ", " - ", null, "jambon cuit choix sans polyphosphates 14", ",", null, null, null, "7% ", "(", "(", null, null, "jambon de porc", " - ", " - ", " - ", null, "eau", " - ", " - ", " - ", null, "sel", " - ", " - ", " - ", null, "sirop de glucose", " - ", " - ", " - ", null, "dextrose", " - ", " - ", " - ", null, "arômes", " - ", " - ", " - ", null, "conservateurs ", ":", ":", null, null, "  érythorbate de sodium ", ",", null, null, null, " nitrite de sodium)", " - ", " - ", " - ", null, "matière grasse végétale raffinée de colza", " - ", " - ", " - ", null, "_beurre_ concentré", " - ", " - ", " - ", null, "colorant ", ":", ":", null, null, "  caroténoïdes." ],
+    "last_editor": "date-limite-app",
+    "generic_name_fr_debug_tags": [],
+    "amino_acids_prev_tags": [],
+    "_keywords": [ "mie", "huile", "san", "garni", "experimentation", "choix", "et", "de", "palme", "jambon", "etiquetage", "nutritionnel", "croque-monsieur", "fondu", "fromage", "2016", "nutriscore", "frai", "casino", "maxi", "croque", "monsieur", "plat", "cuit", "sandwich", "prepare", "pain" ],
+    "complete": 1,
+    "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+    "labels_tags": [ "en:nutriscore-experiment", "de:ohne-palmol", "en:2016-nutrition-labelling-experiment", "en:nutriscore-experiment-grade-d" ],
+    "labels_hierarchy": [ "en:nutriscore-experiment", "de:ohne-palmol", "en:2016-nutrition-labelling-experiment", "en:nutriscore-experiment-grade-d" ],
+    "amino_acids_tags": [],
+    "emb_codes": "",
+    "image_nutrition_thumb_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/nutrition_fr.13.100.jpg",
+    "sortkey": 1535202994,
+    "image_front_small_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.200.jpg",
+    "fruits-vegetables-nuts_100g_estimate": 0,
+    "minerals_tags": [],
+    "images": {
+      "4": {
+        "uploaded_t": "1474912154",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "full": {
+            "w": 3120,
+            "h": 4160
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          }
+        },
+        "uploader": "tacinte"
+      },
+      "1": {
+        "uploader": "tacinte",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "w": 3120,
+            "h": 4160
+          }
+        },
+        "uploaded_t": "1474912148"
+      },
+      "3": {
+        "uploader": "tacinte",
+        "uploaded_t": "1474912152",
+        "sizes": {
+          "full": {
+            "h": 4160,
+            "w": 3120
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "100": {
+            "h": 100,
+            "w": 75
+          }
+        }
+      },
+      "ingredients_fr": {
+        "rev": "12",
+        "y1": "158.8125",
+        "normalize": "true",
+        "x1": "82.75",
+        "sizes": {
+          "200": {
+            "w": 200,
+            "h": 103
+          },
+          "100": {
+            "h": 51,
+            "w": 100
+          },
+          "400": {
+            "h": 206,
+            "w": 400
+          },
+          "full": {
+            "w": 1820,
+            "h": 936
+          }
+        },
+        "angle": "0",
+        "x2": "257.75",
+        "geometry": "1820x936-860-1651",
+        "white_magic": "false",
+        "y2": "248.8125",
+        "imgid": "3"
+      },
+      "nutrition_fr": {
+        "rev": "13",
+        "y1": "151.8125",
+        "angle": "0",
+        "x1": "50.75",
+        "normalize": "true",
+        "sizes": {
+          "400": {
+            "h": 400,
+            "w": 400
+          },
+          "full": {
+            "w": 1238,
+            "h": 1238
+          },
+          "200": {
+            "h": 200,
+            "w": 200
+          },
+          "100": {
+            "h": 100,
+            "w": 100
+          }
+        },
+        "x2": "169.75",
+        "white_magic": "false",
+        "geometry": "1238x1238-527-1578",
+        "y2": "270.8125",
+        "imgid": "4"
+      },
+      "front_fr": {
+        "rev": "10",
+        "y1": "13.8125",
+        "sizes": {
+          "400": {
+            "w": 218,
+            "h": 400
+          },
+          "full": {
+            "w": 1851,
+            "h": 3401
+          },
+          "200": {
+            "h": 200,
+            "w": 109
+          },
+          "100": {
+            "h": 100,
+            "w": 54
+          }
+        },
+        "x1": "67.75",
+        "normalize": "true",
+        "angle": "0",
+        "x2": "245.75",
+        "geometry": "1851x3401-704-143",
+        "white_magic": "false",
+        "y2": "340.8125",
+        "imgid": "5"
+      },
+      "5": {
+        "sizes": {
+          "full": {
+            "w": 3120,
+            "h": 4160
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "100": {
+            "w": 75,
+            "h": 100
+          }
+        },
+        "uploaded_t": "1474912158",
+        "uploader": "tacinte"
+      },
+      "2": {
+        "uploader": "tacinte",
+        "sizes": {
+          "full": {
+            "h": 4160,
+            "w": 3120
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "100": {
+            "h": 100,
+            "w": 75
+          }
+        },
+        "uploaded_t": "1474912149"
+      }
+    },
+    "completed_t": 1475342970,
+    "origins_debug_tags": [],
+    "ingredients_text_debug": "Pain de mie 49,3% (farine de _blé_ - eau - huile de colza - sel - dextrose - levure - conservateur :  propionate de calcium - émulsifiants :  mono- et diglycérides d'acides gras , lécithines - _gluten de blé_ - épaississant :  gomme xanthane - agent de traitement de la farine :  acide ascorbique) - _fromage_ fondu 28% [_fromages_ 14% (dont _emmental_ 4,2%) - _beurre_ - eau - protéines de lait - amidons transformés de maïs et/ou pomme de terre - _lactosérum_ - sels de fonte :  citrates de sodium , polyphosphates - gélifiant :  carraghénanes] - jambon cuit choix sans polyphosphates 14,7% (jambon de porc - eau - sel - sirop de glucose - dextrose - arômes - conservateurs :  érythorbate de sodium , nitrite de sodium) - matière grasse végétale raffinée de colza - _beurre_ concentré - colorant :  caroténoïdes.",
+    "nutrition_score_warning_no_fiber": 1,
+    "allergens_from_ingredients": "blé, gluten de blé, fromage, fromages, emmental, beurre, lactosérum, beurre, protéines de lait",
+    "categories_debug_tags": [],
+    "categories_tags": [ "en:fresh-foods", "en:meals", "en:sandwiches", "en:fresh-meals", "fr:croque-monsieur" ],
+    "product_quantity": 300,
+    "categories": "Frais,Plats préparés,Sandwichs,Plats préparés frais,Croque-monsieur",
+    "last_modified_by": "date-limite-app",
+    "allergens_hierarchy": [ "en:gluten", "en:milk" ],
+    "unknown_nutrients_tags": [],
+    "ingredients_from_palm_oil_tags": [],
+    "image_ingredients_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/ingredients_fr.12.400.jpg",
+    "packaging_debug_tags": [],
+    "additives_n": 12,
+    "traces_debug_tags": [],
+    "checkers_tags": [],
+    "last_image_t": 1475161455,
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 2,
+    "nutriments": {
+      "carbohydrates_unit": "g",
+      "proteins_serving": "17",
+      "energy_100g": "1240",
+      "sodium_unit": "g",
+      "energy_unit": "kJ",
+      "sodium_100g": 0.63,
+      "nova-group": "4",
+      "saturated-fat_value": "9.6",
+      "carbohydrates_serving": "42",
+      "sodium": 0.94488188976378,
+      "fat_unit": "g",
+      "carbohydrates_100g": "28",
+      "proteins_value": "17",
+      "fat_100g": 15.3,
+      "nutrition-score-fr": "15",
+      "proteins": "17",
+      "salt_100g": 1.6,
+      "carbohydrates_value": "42",
+      "sodium_value": "0.9448818897637794",
+      "sugars_serving": 4.2,
+      "sugars_100g": 2.8,
+      "nutrition-score-uk_100g": "15",
+      "nutrition-score-uk": "15",
+      "sodium_serving": 0.94488188976378,
+      "saturated-fat_serving": 9.6,
+      "sugars_value": "4.2",
+      "sugars": 4.2,
+      "proteins_unit": "g",
+      "energy_serving": "1854",
+      "sugars_unit": "g",
+      "nova-group_100g": "4",
+      "salt_serving": 2.4,
+      "fat_serving": "23",
+      "carbohydrates": "42",
+      "fat_value": "23",
+      "nutrition-score-fr_100g": "15",
+      "saturated-fat": 9.6,
+      "proteins_100g": 11.3,
+      "salt_value": "2.4",
+      "saturated-fat_unit": "g",
+      "energy": "1854",
+      "salt": 2.4,
+      "saturated-fat_100g": 6.4,
+      "fat": "23",
+      "salt_unit": "g",
+      "nova-group_serving": "4",
+      "energy_value": "1854"
+    },
+    "codes_tags": [ "code-13", "3222475893421", "322247589342x", "32224758934xx", "3222475893xxx", "322247589xxxx", "32224758xxxxx", "3222475xxxxxx", "322247xxxxxxx", "32224xxxxxxxx", "3222xxxxxxxxx", "322xxxxxxxxxx", "32xxxxxxxxxxx", "3xxxxxxxxxxxx" ],
+    "nutrition_data_prepared_per": "100g",
+    "lc": "fr",
+    "nutrition_grades_tags": [ "d" ],
+    "nova_groups": "4",
+    "quantity": "2 x 150 g (300 g)",
+    "ingredients_text": "Pain de mie 49,3% (farine de _blé_ - eau - huile de colza - sel - dextrose - levure - conservateur : propionate de calcium - émulsifiants : mono- et diglycérides d'acides gras , lécithines - _gluten de blé_ - épaississant : gomme xanthane - agent de traitement de la farine : acide ascorbique) - _fromage_ fondu 28% [_fromages_ 14% (dont _emmental_ 4,2%) - _beurre_ - eau - protéines de lait - amidons transformés de maïs et/ou pomme de terre - _lactosérum_ - sels de fonte : citrates de sodium , polyphosphates - gélifiant : carraghénanes] - jambon cuit choix sans polyphosphates 14,7% (jambon de porc - eau - sel - sirop de glucose - dextrose - arômes - conservateurs : érythorbate de sodium , nitrite de sodium) - matière grasse végétale raffinée de colza - _beurre_ concentré - colorant : caroténoïdes.",
+    "ingredients_n": "46",
+    "additives_original_tags": [ "en:e282", "en:e471", "en:e322", "en:e415", "en:e300", "en:e14xx", "en:e331", "en:e452", "en:e407", "en:e316", "en:e250", "en:e160" ],
+    "_id": "3222475893421",
+    "pnns_groups_2_tags": [ "sandwich" ],
+    "countries_tags": [ "en:france" ],
+    "emb_codes_orig": "",
+    "ingredients_text_with_allergens": "Pain de mie 49,3% (farine de <span class=\"allergen\">blé</span> - eau - huile de colza - sel - dextrose - levure - conservateur : propionate de calcium - émulsifiants : mono- et diglycérides d'acides gras , lécithines - <span class=\"allergen\">gluten de blé</span> - épaississant : gomme xanthane - agent de traitement de la farine : acide ascorbique) - <span class=\"allergen\">fromage</span> fondu 28% [<span class=\"allergen\">fromages</span> 14% (dont <span class=\"allergen\">emmental</span> 4,2%) - <span class=\"allergen\">beurre</span> - eau - <span class=\"allergen\">protéines de lait</span> - amidons transformés de maïs et/ou pomme de terre - <span class=\"allergen\">lactosérum</span> - sels de fonte : citrates de sodium , polyphosphates - gélifiant : carraghénanes] - jambon cuit choix sans polyphosphates 14,7% (jambon de porc - eau - sel - sirop de glucose - dextrose - arômes - conservateurs : érythorbate de sodium , nitrite de sodium) - matière grasse végétale raffinée de colza - <span class=\"allergen\">beurre</span> concentré - colorant : caroténoïdes.",
+    "additives_tags": [ "en:e14xx", "en:e160", "en:e250", "en:e282", "en:e300", "en:e316", "en:e322", "en:e331", "en:e407", "en:e415", "en:e452", "en:e471" ],
+    "image_thumb_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.100.jpg",
+    "link_debug_tags": [],
+    "minerals_prev_tags": [],
+    "nova_groups_tags": [ "en:4-ultra-processed-food-and-drink-products" ],
+    "nova_group": "4",
+    "brands_tags": [ "casino" ],
+    "photographers_tags": [ "tacinte" ],
+    "generic_name_fr": "Pain de mie garni de fromage fondu et de jambon cuit choix",
+    "stores_tags": [ "casino" ],
+    "serving_size": "150 g",
+    "nutrition_score_warning_no_fruits_vegetables_nuts": 1,
+    "ingredients_text_fr_debug_tags": [],
+    "nutrition_grade_fr": "d",
+    "nucleotides_tags": [],
+    "no_nutrition_data": "",
+    "expiration_date_debug_tags": [],
+    "languages_codes": { "fr": 6 },
+    "ingredients_ids_debug": [ "pain-de-mie-49", "3", "farine-de-ble", "eau", "huile-de-colza", "sel", "dextrose", "levure", "conservateur", "propionate-de-calcium", "emulsifiants", "mono-et-diglycerides-d-acides-gras", "lecithines", "gluten-de-ble", "epaississant", "gomme-xanthane", "agent-de-traitement-de-la-farine", "acide-ascorbique", "fromage-fondu-28", "fromages-14", "dont-emmental-4", "2", "beurre", "eau", "proteines-de-lait", "amidons-transformes-de-mais-et", "ou-pomme-de-terre", "lactoserum", "sels-de-fonte", "citrates-de-sodium", "polyphosphates", "gelifiant", "carraghenanes", "jambon-cuit-choix-sans-polyphosphates-14", "7", "jambon-de-porc", "eau", "sel", "sirop-de-glucose", "dextrose", "aromes", "conservateurs", "erythorbate-de-sodium", "nitrite-de-sodium", "matiere-grasse-vegetale-raffinee-de-colza", "beurre-concentre", "colorant", "carotenoides" ],
+    "ingredients_text_with_allergens_fr": "Pain de mie 49,3% (farine de <span class=\"allergen\">blé</span> - eau - huile de colza - sel - dextrose - levure - conservateur : propionate de calcium - émulsifiants : mono- et diglycérides d'acides gras , lécithines - <span class=\"allergen\">gluten de blé</span> - épaississant : gomme xanthane - agent de traitement de la farine : acide ascorbique) - <span class=\"allergen\">fromage</span> fondu 28% [<span class=\"allergen\">fromages</span> 14% (dont <span class=\"allergen\">emmental</span> 4,2%) - <span class=\"allergen\">beurre</span> - eau - <span class=\"allergen\">protéines de lait</span> - amidons transformés de maïs et/ou pomme de terre - <span class=\"allergen\">lactosérum</span> - sels de fonte : citrates de sodium , polyphosphates - gélifiant : carraghénanes] - jambon cuit choix sans polyphosphates 14,7% (jambon de porc - eau - sel - sirop de glucose - dextrose - arômes - conservateurs : érythorbate de sodium , nitrite de sodium) - matière grasse végétale raffinée de colza - <span class=\"allergen\">beurre</span> concentré - colorant : caroténoïdes.",
+    "image_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.400.jpg",
+    "quantity_debug_tags": [],
+    "nutrition_score_debug": " -- energy 3 + sat-fat 6 + fr-sat-fat-for-fats 6 + sugars 0 + sodium 6 - fruits 0% 0 - fiber 0 - proteins 5 -- fsa 15 -- fr 15",
+    "purchase_places": "Paris,Maison-Laffitte",
+    "languages_hierarchy": [ "en:french" ],
+    "created_t": 1475161440,
+    "ingredients_n_tags": [ "46", "41-50" ],
+    "product_name": "Croque Monsieur Maxi",
+    "image_nutrition_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/nutrition_fr.13.400.jpg",
+    "image_front_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.400.jpg",
+    "manufacturing_places_tags": [],
+    "emb_codes_debug_tags": [],
+    "nucleotides_prev_tags": [],
+    "additives_old_n": 12,
+    "traces_hierarchy": [ "en:celery", "en:crustaceans", "en:eggs", "en:fish", "en:molluscs", "en:mustard", "en:nuts", "en:soybeans" ],
+    "additives_prev_tags": [ "en:e160", "en:e250", "en:e282", "en:e300", "en:e316", "en:e322", "en:e331", "en:e407", "en:e415", "en:e452", "en:e471" ],
+    "nutrition_data_per_debug_tags": [],
+    "countries": "France",
+    "nova_group_debug": " -- ingredients/en:preservative : 3 -- additives/en:e471 : 4",
+    "languages_tags": [ "en:french", "en:1" ],
+    "lang": "fr",
+    "serving_size_debug_tags": [],
+    "max_imgid": "5",
+    "packaging_tags": [ "barquette", "plastique" ],
+    "informers_tags": [ "tacinte", "tacite-mass-editor", "tacite" ],
+    "ingredients_hierarchy": [ "fr:pain-de-mie", "fr:fromage-fondu", "fr:jambon cuit choix sans polyphosphates", "fr:matière grasse végétale raffinée de colza", "en:concentrated-butter", "en:butterfat", "en:colour", "fr:carotenoide", "en:wheat-flour", "en:cereal-flour", "en:water", "en:colza-oil", "en:vegetable-oil", "en:oil-and-vegetable-fat", "en:oil", "en:salt", "en:dextrose", "en:yeast", "en:raising-agent", "en:preservative", "fr:propionate-de-calcium", "en:emulsifier", "fr:mono", "fr:diglycerides-d-acides-gras", "fr:lecithine", "fr:gluten-de-ble", "en:thickener", "en:xanthan-gum", "en:stabiliser", "en:thickener", "en:flour-treatment-agent", "en:ascorbic-acid", "fr:fromage", "fr:dont _emmental_", "en:butter", "en:water", "en:milk-protein", "", "en:modified-corn-starch", "en:modified-starch", "en:corn-starch", "en:starch", "en:potatoes", "en:whey", "en:milk", "en:emulsifying-salt", "fr:citrate-de-sodium", "fr:polyphosphate", "en:gelling-agent", "fr:carraghenane", "fr:jambon-de-porc", "en:water", "en:salt", "en:glucose-syrup", "en:glucose", "en:dextrose", "en:flavouring", "en:preservative", "fr:erythorbate-de-sodium", "fr:nitrite-de-sodium" ],
+    "categories_prev_hierarchy": [ "en:fresh-foods", "en:meals", "en:sandwiches", "en:fresh-meals", "fr:croque-monsieur" ],
+    "image_nutrition_small_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/nutrition_fr.13.200.jpg",
+    "nutrient_levels_tags": [ "en:fat-in-moderate-quantity", "en:saturated-fat-in-high-quantity", "en:sugars-in-low-quantity", "en:salt-in-high-quantity" ],
+    "cities_tags": [],
+    "entry_dates_tags": [ "2016-09-29", "2016-09", "2016" ],
+    "code": "3222475893421",
+    "misc_tags": [ "en:nutrition-no-fiber", "en:nutrition-no-fruits-vegetables-nuts", "en:nutrition-no-fiber-or-fruits-vegetables-nuts", "en:nutriscore-computed" ],
+    "labels_debug_tags": [ "added-en-nutriscore-experiment", "added-de-ohne-palmol", "added-en-2016-nutrition-labelling-experiment", "added-en-nutriscore-experiment-grade-d", "removed-en-palm-oil-free", "removed-fr-experimentation-etiquetage-nutritionnel-2016", "removed-fr-experimentation-nutriscore", "removed-fr-experimentation-nutriscore-d" ],
+    "image_ingredients_thumb_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/ingredients_fr.12.100.jpg",
+    "labels": "Experimentation Etiquetage Nutritionnel 2016,Experimentation NutriScore,Expérimentation NutriScore D,sans huile de palme",
+    "packaging": "barquette,plastique",
+    "brands": "Casino",
+    "image_small_url": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.200.jpg",
+    "pnns_groups_2": "Sandwich",
+    "vitamins_prev_tags": [],
+    "last_modified_t": 1535202994,
+    "purchase_places_tags": [ "paris", "maison-laffitte" ],
+    "pnns_groups_1": "Composite foods",
+    "ingredients_tags": [ "fr:pain-de-mie", "fr:fromage-fondu", "fr:jambon-cuit-choix-sans-polyphosphates", "fr:matiere-grasse-vegetale-raffinee-de-colza", "en:concentrated-butter", "en:butterfat", "en:colour", "fr:carotenoide", "en:wheat-flour", "en:cereal-flour", "en:water", "en:colza-oil", "en:vegetable-oil", "en:oil-and-vegetable-fat", "en:oil", "en:salt", "en:dextrose", "en:yeast", "en:raising-agent", "en:preservative", "fr:propionate-de-calcium", "en:emulsifier", "fr:mono", "fr:diglycerides-d-acides-gras", "fr:lecithine", "fr:gluten-de-ble", "en:thickener", "en:xanthan-gum", "en:stabiliser", "en:thickener", "en:flour-treatment-agent", "en:ascorbic-acid", "fr:fromage", "fr:dont-emmental", "en:butter", "en:water", "en:milk-protein", "", "en:modified-corn-starch", "en:modified-starch", "en:corn-starch", "en:starch", "en:potatoes", "en:whey", "en:milk", "en:emulsifying-salt", "fr:citrate-de-sodium", "fr:polyphosphate", "en:gelling-agent", "fr:carraghenane", "fr:jambon-de-porc", "en:water", "en:salt", "en:glucose-syrup", "en:glucose", "en:dextrose", "en:flavouring", "en:preservative", "fr:erythorbate-de-sodium", "fr:nitrite-de-sodium" ],
+    "allergens_tags": [ "en:gluten", "en:milk" ],
+    "id": "3222475893421",
+    "lang_debug_tags": [],
+    "selected_images": {
+      "ingredients": {
+        "small": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/ingredients_fr.12.200.jpg" },
+        "display": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/ingredients_fr.12.400.jpg" },
+        "thumb": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/ingredients_fr.12.100.jpg" }
+      },
+      "nutrition": {
+        "thumb": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/nutrition_fr.13.100.jpg" },
+        "small": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/nutrition_fr.13.200.jpg" },
+        "display": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/nutrition_fr.13.400.jpg" }
+      },
+      "front": {
+        "thumb": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.100.jpg" },
+        "display": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.400.jpg" },
+        "small": { "fr": "https://static.openfoodfacts.org/images/products/322/247/589/3421/front_fr.10.200.jpg" }
+      }
+    },
+    "creator": "tacinte",
+    "ingredients": [
+      {
+        "rank": 1,
+        "text": "Pain de mie",
+        "percent": "49.3",
+        "id": "fr:pain-de-mie"
+      },
+      {
+        "rank": 2,
+        "percent": "28",
+        "text": "_fromage_ fondu",
+        "id": "fr:fromage-fondu"
+      },
+      {
+        "rank": 3,
+        "text": "jambon cuit choix sans polyphosphates",
+        "percent": "14.7",
+        "id": "fr:jambon cuit choix sans polyphosphates"
+      },
+      {
+        "id": "fr:matière grasse végétale raffinée de colza",
+        "rank": 4,
+        "text": "matière grasse végétale raffinée de colza"
+      },
+      {
+        "id": "en:concentrated-butter",
+        "rank": 5,
+        "text": "_beurre_ concentré"
+      },
+      {
+        "rank": 6,
+        "text": "colorant",
+        "id": "en:colour"
+      },
+      {
+        "rank": 7,
+        "text": "caroténoïdes",
+        "id": "fr:carotenoide"
+      },
+      {
+        "text": "farine de _blé_",
+        "id": "en:wheat-flour"
+      },
+      {
+        "id": "en:water",
+        "text": "eau"
+      },
+      {
+        "id": "en:colza-oil",
+        "text": "huile de colza"
+      },
+      {
+        "id": "en:salt",
+        "text": "sel"
+      },
+      {
+        "text": "dextrose",
+        "id": "en:dextrose"
+      },
+      {
+        "text": "levure",
+        "id": "en:yeast"
+      },
+      {
+        "id": "en:preservative",
+        "text": "conservateur"
+      },
+      {
+        "id": "fr:propionate-de-calcium",
+        "text": "propionate de calcium"
+      },
+      {
+        "text": "émulsifiants",
+        "id": "en:emulsifier"
+      },
+      {
+        "id": "fr:mono",
+        "text": "mono"
+      },
+      {
+        "id": "fr:diglycerides-d-acides-gras",
+        "text": "et diglycérides d'acides gras"
+      },
+      {
+        "text": "lécithines",
+        "id": "fr:lecithine"
+      },
+      {
+        "text": "_gluten de blé_",
+        "id": "fr:gluten-de-ble"
+      },
+      {
+        "id": "en:thickener",
+        "text": "épaississant"
+      },
+      {
+        "id": "en:xanthan-gum",
+        "text": "gomme xanthane"
+      },
+      {
+        "id": "en:flour-treatment-agent",
+        "text": "agent de traitement de la farine"
+      },
+      {
+        "id": "en:ascorbic-acid",
+        "text": "acide ascorbique"
+      },
+      {
+        "text": "_fromages_",
+        "percent": "14",
+        "id": "fr:fromage"
+      },
+      {
+        "id": "fr:dont _emmental_",
+        "percent": "4.2",
+        "text": "dont _emmental_"
+      },
+      {
+        "text": "_beurre_",
+        "id": "en:butter"
+      },
+      {
+        "id": "en:water",
+        "text": "eau"
+      },
+      {
+        "text": "protéines de lait",
+        "id": "en:milk-protein"
+      },
+      {
+        "text": "amidons transformés de maïs et",
+        "id": "en:modified-corn-starch"
+      },
+      {
+        "text": "ou pomme de terre",
+        "id": "en:potatoes"
+      },
+      {
+        "text": "_lactosérum_",
+        "id": "en:whey"
+      },
+      {
+        "text": "sels de fonte",
+        "id": "en:emulsifying-salt"
+      },
+      {
+        "text": "citrates de sodium",
+        "id": "fr:citrate-de-sodium"
+      },
+      {
+        "text": "polyphosphates",
+        "id": "fr:polyphosphate"
+      },
+      {
+        "id": "en:gelling-agent",
+        "text": "gélifiant"
+      },
+      {
+        "text": "carraghénanes",
+        "id": "fr:carraghenane"
+      },
+      {
+        "id": "fr:jambon-de-porc",
+        "text": "jambon de porc"
+      },
+      {
+        "text": "eau",
+        "id": "en:water"
+      },
+      {
+        "text": "sel",
+        "id": "en:salt"
+      },
+      {
+        "text": "sirop de glucose",
+        "id": "en:glucose-syrup"
+      },
+      {
+        "id": "en:dextrose",
+        "text": "dextrose"
+      },
+      {
+        "text": "arômes",
+        "id": "en:flavouring"
+      },
+      {
+        "id": "en:preservative",
+        "text": "conservateurs"
+      },
+      {
+        "text": "érythorbate de sodium",
+        "id": "fr:erythorbate-de-sodium"
+      },
+      {
+        "text": "nitrite de sodium",
+        "id": "fr:nitrite-de-sodium"
+      }
+    ],
+    "additives_prev_n": 11,
+    "countries_hierarchy": [ "en:france" ],
+    "quality_tags": [],
+    "ingredients_that_may_be_from_palm_oil_n": 2,
+    "emb_codes_tags": [],
+    "generic_name": "Pain de mie garni de fromage fondu et de jambon cuit choix",
+    "editors_tags": [ "tacinte", "date-limite-app", "tacite", "tacite-mass-editor" ],
+    "additives_debug_tags": [ "en-e14xx-added" ],
+    "additives_old_tags": [ "en:e282", "en:e471", "en:e322", "en:e1403", "en:e415", "en:e300", "en:e331", "en:e452", "en:e407", "en:e316", "en:e250", "en:e160" ],
+    "product_name_fr_debug_tags": [],
+    "categories_prev_tags": [ "en:fresh-foods", "en:meals", "en:sandwiches", "en:fresh-meals", "fr:croque-monsieur" ],
+    "allergens": "blé, gluten de blé, fromage, fromages, emmental, beurre, lactosérum, beurre",
+    "nutrient_levels": {
+      "fat": "moderate",
+      "salt": "high",
+      "saturated-fat": "high",
+      "sugars": "low"
+    },
+    "nutrition_grades": "d",
+    "additives": " [ pain-de-mie-49 -> fr:pain-de-mie-49  ]  [ pain-de-mie -> fr:pain-de-mie  ]  [ pain-de -> fr:pain-de  ]  [ pain -> fr:pain  ]  [ 3 -> en:fd-c  ]  [ farine-de-ble -> fr:farine-de-ble  ]  [ farine-de -> fr:farine-de  ]  [ farine -> fr:farine  ]  [ eau -> fr:eau  ]  [ huile-de-colza -> fr:huile-de-colza  ]  [ huile-de -> fr:huile-de  ]  [ huile -> fr:huile  ]  [ sel -> fr:sel  ]  [ dextrose -> fr:dextrose  ]  [ levure -> fr:levure  ]  [ conservateur -> fr:conservateur  ]  [ propionate-de-calcium -> en:e282  -> exists  -- ok  ]  [ emulsifiants -> fr:emulsifiants  ]  [ mono-et-diglycerides-d-acides-gras -> en:e471  -> exists  -- ok  ]  [ lecithines -> en:e322  -> exists  -- ok  ]  [ gluten-de-ble -> fr:gluten-de-ble  ]  [ gluten-de -> fr:gluten-de  ]  [ gluten -> fr:gluten  ]  [ epaississant -> fr:epaississant  ]  [ gomme-xanthane -> en:e415  -> exists  -- ok  ]  [ agent-de-traitement-de-la-farine -> fr:agent-de-traitement-de-la-farine  ]  [ agent-de-traitement-de-la -> fr:agent-de-traitement-de-la  ]  [ agent-de-traitement-de -> fr:agent-de-traitement-de  ]  [ agent-de-traitement -> fr:agent-de-traitement  ]  [ agent-de -> fr:agent-de  ]  [ agent -> fr:agent  ]  [ acide-ascorbique -> en:e300  -> exists  -- mandatory_additive_class: en:acidity-regulator,en:antioxidant,en:flour-treatment-agent,en:sequestrant,en:acid (current: en:flour-treatment-agent)  -- ok  ]  [ fromage-fondu-28 -> fr:fromage-fondu-28  ]  [ fromage-fondu -> fr:fromage-fondu  ]  [ fromage -> fr:fromage  ]  [ fromages-14 -> fr:fromages-14  ]  [ fromages -> fr:fromages  ]  [ dont-emmental-4 -> fr:dont-emmental-4  ]  [ dont-emmental -> fr:dont-emmental  ]  [ dont -> fr:dont  ]  [ 2 -> en:fd-c  ]  [ beurre -> fr:beurre  ]  [ eau -> fr:eau  ]  [ proteines-de-lait -> fr:proteines-de-lait  ]  [ proteines-de -> fr:proteines-de  ]  [ proteines -> fr:proteines  ]  [ amidons-transformes-de-mais-et -> fr:amidons-transformes-de-mais-et  ]  [ amidons-transformes-de-mais -> fr:amidons-transformes-de-mais  ]  [ amidons-transformes-de -> en:e14xx  -> exists  -- ok  ]  [ ou-pomme-de-terre -> fr:ou-pomme-de-terre  ]  [ ou-pomme-de -> fr:ou-pomme-de  ]  [ ou-pomme -> fr:ou-pomme  ]  [ ou -> fr:ou  ]  [ lactoserum -> fr:lactoserum  ]  [ sels-de-fonte -> fr:sels-de-fonte  ]  [ sels-de -> fr:sels-de  ]  [ sels -> fr:sels  ]  [ citrates-de-sodium -> en:e331  -> exists  -- ok  ]  [ polyphosphates -> en:e452  -> exists  -- ok  ]  [ gelifiant -> fr:gelifiant  ]  [ carraghenanes -> en:e407  -> exists  -- ok  ]  [ jambon-cuit-choix-sans-polyphosphates-14 -> fr:jambon-cuit-choix-sans-polyphosphates-14  ]  [ jambon-cuit-choix-sans-polyphosphates -> fr:jambon-cuit-choix-sans-polyphosphates  ]  [ jambon-cuit-choix-sans -> fr:jambon-cuit-choix-sans  ]  [ jambon-cuit-choix -> fr:jambon-cuit-choix  ]  [ jambon-cuit -> fr:jambon-cuit  ]  [ jambon -> fr:jambon  ]  [ 7 -> en:fd-c  ]  [ jambon-de-porc -> fr:jambon-de-porc  ]  [ jambon-de -> fr:jambon-de  ]  [ jambon -> fr:jambon  ]  [ eau -> fr:eau  ]  [ sel -> fr:sel  ]  [ sirop-de-glucose -> fr:sirop-de-glucose  ]  [ sirop-de -> fr:sirop-de  ]  [ sirop -> fr:sirop  ]  [ dextrose -> fr:dextrose  ]  [ aromes -> fr:aromes  ]  [ conservateurs -> fr:conservateurs  ]  [ erythorbate-de-sodium -> en:e316  -> exists  -- ok  ]  [ nitrite-de-sodium -> en:e250  -> exists  -- ok  ]  [ matiere-grasse-vegetale-raffinee-de-colza -> fr:matiere-grasse-vegetale-raffinee-de-colza  ]  [ matiere-grasse-vegetale-raffinee-de -> fr:matiere-grasse-vegetale-raffinee-de  ]  [ matiere-grasse-vegetale-raffinee -> fr:matiere-grasse-vegetale-raffinee  ]  [ matiere-grasse-vegetale -> fr:matiere-grasse-vegetale  ]  [ matiere-grasse -> fr:matiere-grasse  ]  [ matiere -> fr:matiere  ]  [ beurre-concentre -> fr:beurre-concentre  ]  [ beurre -> fr:beurre  ]  [ colorant -> fr:colorant  ]  [ carotenoides -> en:e160  -> exists  -- ok  ] ",
+    "traces_tags": [ "en:celery", "en:crustaceans", "en:eggs", "en:fish", "en:molluscs", "en:mustard", "en:nuts", "en:soybeans" ],
+    "origins": "",
+    "labels_prev_tags": [ "en:palm-oil-free", "fr:experimentation-etiquetage-nutritionnel-2016", "fr:experimentation-nutriscore", "fr:experimentation-nutriscore-d" ],
+    "ingredients_text_fr": "Pain de mie 49,3% (farine de _blé_ - eau - huile de colza - sel - dextrose - levure - conservateur : propionate de calcium - émulsifiants : mono- et diglycérides d'acides gras , lécithines - _gluten de blé_ - épaississant : gomme xanthane - agent de traitement de la farine : acide ascorbique) - _fromage_ fondu 28% [_fromages_ 14% (dont _emmental_ 4,2%) - _beurre_ - eau - protéines de lait - amidons transformés de maïs et/ou pomme de terre - _lactosérum_ - sels de fonte : citrates de sodium , polyphosphates - gélifiant : carraghénanes] - jambon cuit choix sans polyphosphates 14,7% (jambon de porc - eau - sel - sirop de glucose - dextrose - arômes - conservateurs : érythorbate de sodium , nitrite de sodium) - matière grasse végétale raffinée de colza - _beurre_ concentré - colorant : caroténoïdes.",
+    "last_image_dates_tags": [ "2016-09-29", "2016-09", "2016" ],
+    "states_hierarchy": [ "en:to-be-checked", "en:complete", "en:nutrition-facts-completed", "en:ingredients-completed", "en:expiration-date-to-be-completed", "en:packaging-code-to-be-completed", "en:characteristics-completed", "en:categories-completed", "en:brands-completed", "en:packaging-completed", "en:quantity-completed", "en:product-name-completed", "en:photos-validated", "en:photos-uploaded" ],
+    "additives_prev_original_tags": [ "en:e282", "en:e471", "en:e322", "en:e415", "en:e300", "en:e331", "en:e452", "en:e407", "en:e316", "en:e250", "en:e160" ],
+    "brands_debug_tags": []
+  },
+  "status_verbose": "product found",
+  "status": 1
+}

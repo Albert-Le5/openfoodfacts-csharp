@@ -1,0 +1,478 @@
+{
+  "skip": 0,
+  "products": [
+    {
+      "generic_name_fr": "Panettone raisins secs et écorces d'orange confites",
+      "last_image_dates_tags": [ "2015-11-26", "2015-11", "2015" ],
+      "additives_old_n": 0,
+      "minerals_tags": [],
+      "brands": "Monoprix Gourmet,Monoprix",
+      "languages_tags": [ "en:italian", "en:french", "en:2", "en:multilingual" ],
+      "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.100.jpg",
+      "quality_tags": [ "ingredients-unknown-score-above-20", "ingredients-100-percent-unknown" ],
+      "ingredients_debug": [ "Farina di _frumento_", ",", null, null, null, " zucchero", ",", null, null, null, " uva passa 8", ",", null, null, null, "9 %", ",", null, null, null, " scorza d'arancia candita 8", ",", null, null, null, "9 % ", "(", "(", null, null, "scorza d'arancia 7", ",", null, null, null, "8 %", ",", null, null, null, " sciroppo di glucosio-fruttosio", ",", null, null, null, " zucchero", ",", null, null, null, " correttore di acidità", ":", ":", null, null, " acido citrico)", ",", null, null, null, " _burro_ 8", ",", null, null, null, "5 % di concentrato", ",", null, null, null, " acqua", ",", null, null, null, " lievito ", "(", "(", null, null, "farina di _frumento_", ",", null, null, null, " acqua)", ",", null, null, null, " tuorlo d'_uovo_", ",", null, null, null, " emulsionante", ":", ":", null, null, " mono- e digliceridi degli acidi grassi", ",", null, null, null, " aroma ", "(", "(", null, null, "contiene alcool)", ",", null, null, null, " sale", ",", null, null, null, " aromi naturali." ],
+      "last_modified_by": "beniben",
+      "states_tags": [ "en:to-be-completed", "en:nutrition-facts-completed", "en:ingredients-completed", "en:expiration-date-completed", "en:packaging-code-to-be-completed", "en:characteristics-completed", "en:categories-completed", "en:brands-completed", "en:packaging-completed", "en:quantity-completed", "en:product-name-completed", "en:photos-to-be-validated", "en:photos-uploaded" ],
+      "image_small_url": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.200.jpg",
+      "ingredients_from_palm_oil_n": 0,
+      "ingredients_text_it": "Farina di _frumento_, zucchero, uva passa 8,9 %, scorza d'arancia candita 8,9 % (scorza d'arancia 7,8 %, sciroppo di glucosio-fruttosio, zucchero, correttore di acidità: acido citrico), _burro_ 8,5 % di concentrato, acqua, lievito (farina di _frumento_, acqua), tuorlo d'_uovo_, emulsionante: mono e digliceridi degli acidi grassi, aroma (contiene alcool), sale, aromi naturali.",
+      "pnns_groups_1": "sugary-snacks",
+      "checkers_tags": [],
+      "manufacturing_places_tags": [ "italy" ],
+      "ingredients_text_with_allergens_fr": "Farine de <span class=\"allergen\">blé</span>, sucre, raisins secs 8,9 %, écorces d'orange confites 8,9 % (écorces d'orange 7,8%, sirop de glucose-fructose, sucre, correcteur d'acidité : acide citrique), <span class=\"allergen\">beurre</span> concentré 8,5 %, eau, levain (farine de <span class=\"allergen\">blé</span>, eau), jaune d'<span class=\"allergen\">œuf</span>, émulsifiant : mono et diglycérides d'acides gras, arôme (contient alcool), sel, arômes naturels.",
+      "product_quantity": 500,
+      "categories": "Sugary snacks,Desserts,Viennoiseries,Brioches,Panettone,Biscuits et gâteaux,Gâteaux,Snacks sucrés",
+      "ingredients_text_with_allergens_it": "Farina di <span class=\"allergen\">frumento</span>, zucchero, uva passa 8,9 %, scorza d'arancia candita 8,9 % (scorza d'arancia 7,8 %, sciroppo di glucosio-fruttosio, zucchero, correttore di acidità: acido citrico), <span class=\"allergen\">burro</span> 8,5 % di concentrato, acqua, lievito (farina di <span class=\"allergen\">frumento</span>, acqua), tuorlo d'<span class=\"allergen\">uovo</span>, emulsionante: mono e digliceridi degli acidi grassi, aroma (contiene alcool), sale, aromi naturali.",
+      "serving_size": "",
+      "rev": 14,
+      "traces_hierarchy": [ "en:nuts", "en:soybeans" ],
+      "last_edit_dates_tags": [ "2018-06-05", "2018-06", "2018" ],
+      "unknown_nutrients_tags": [],
+      "pnns_groups_2": "pastries",
+      "packaging_tags": [ "cardboard", "plastic", "box" ],
+      "nutrition_data_per": "100g",
+      "nutriments": {
+        "sugars_value": "28",
+        "sugars": "28",
+        "salt_100g": 0.46,
+        "carbohydrates": "55",
+        "salt_serving": "",
+        "nova-group": 4,
+        "nova-group_100g": 4,
+        "sodium_serving": "",
+        "fiber": "0",
+        "proteins_100g": 5.9,
+        "carbohydrates_serving": "",
+        "salt": 0.46,
+        "sodium": 0.181102362204724,
+        "saturated-fat_unit": "g",
+        "sugars_unit": "g",
+        "sugars_serving": "",
+        "nova-group_serving": 4,
+        "sodium_unit": "g",
+        "fat_serving": "",
+        "saturated-fat_serving": "",
+        "carbohydrates_100g": "55",
+        "fat_unit": "g",
+        "nutrition-score-fr_100g": "19",
+        "nutrition-score-uk": "19",
+        "salt_unit": "g",
+        "saturated-fat_100g": 7.4,
+        "sodium_100g": 0.181102362204724,
+        "energy": "1448",
+        "carbohydrates_value": "55",
+        "energy_value": "346",
+        "fiber_value": "0",
+        "sugars_100g": "28",
+        "energy_100g": "1448",
+        "fat_value": "11",
+        "saturated-fat_value": "7.4",
+        "sodium_value": "0.1811023622047244",
+        "fiber_unit": "g",
+        "fiber_100g": "0",
+        "energy_serving": "",
+        "salt_value": "0.46",
+        "nutrition-score-uk_100g": "19",
+        "fat_100g": "11",
+        "proteins_unit": "g",
+        "proteins_serving": "",
+        "proteins": 5.9,
+        "fat": "11",
+        "fiber_serving": "",
+        "proteins_value": "5.9",
+        "energy_unit": "kcal",
+        "saturated-fat": 7.4,
+        "carbohydrates_unit": "g",
+        "nutrition-score-fr": "19"
+      },
+      "created_t": 1448552591,
+      "_keywords": [ "dessert", "panettone", "beurre", "brioche", "monoprix", "biscuit", "en", "pur", "italie", "gourmet", "snack", "fabrique", "sucre", "sugary", "viennoiserie", "et", "gateaux" ],
+      "categories_hierarchy": [ "en:sugary-snacks", "en:desserts", "en:viennoiseries", "en:brioches", "en:panettone", "it:Biscuits et gâteaux", "it:Gâteaux", "it:Snacks sucrés" ],
+      "generic_name_it_debug_tags": [],
+      "quantity": "500 g",
+      "fruits-vegetables-nuts_100g_estimate": 0,
+      "nova_group_debug": " -- ingredients/en:salt : 3 -- additives/en:e471 : 4",
+      "link": "",
+      "languages_codes": {
+        "fr": 4,
+        "it": 3
+      },
+      "vitamins_tags": [],
+      "last_editor": "beniben",
+      "brands_debug_tags": [],
+      "purchase_places_debug_tags": [],
+      "lang": "it",
+      "image_front_small_url": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.200.jpg",
+      "manufacturing_places_debug_tags": [],
+      "pnns_groups_2_tags": [ "pastries" ],
+      "complete": 0,
+      "languages_hierarchy": [ "en:italian", "en:french" ],
+      "countries": "France",
+      "last_modified_t": 1528179076,
+      "nutrition_data_prepared_per": "100g",
+      "nutrition_score_debug": " -- energy 4 + sat-fat 7 + fr-sat-fat-for-fats 10 + sugars 6 + sodium 2 - fruits 0% 0 - fiber 0 - proteins 3 -- fsa 19 -- fr 19",
+      "emb_codes_orig": "",
+      "product_name_fr": "Panettone",
+      "ingredients_original_tags": [ "en:wheat-flour", "it:zucchero", "it:uva passa", "it:scorza d'arancia candita", "it:_burro_ 8.5% di concentrato", "en:water", "en:yeast", "it:tuorlo d'_uovo_", "it:emulsionante", "it:mono e digliceridi degli acidi grassi", "en:flavouring", "it:contiene alcool", "en:salt", "it:aromi naturali", "it:scorza d'arancia", "it:sciroppo di glucosio-fruttosio", "it:zucchero", "it:correttore di acidità", "it:acido citrico", "en:wheat-flour", "en:water" ],
+      "purchase_places": "France,Nantes",
+      "emb_codes_debug_tags": [],
+      "nutrition_grades": "e",
+      "additives_tags": [ "en:e330", "en:e471" ],
+      "lc": "it",
+      "product_name_it": "Panettone",
+      "emb_codes_tags": [],
+      "interface_version_modified": "20120622",
+      "generic_name_fr_debug_tags": [],
+      "informers_tags": [ "openfoodfacts-contributors", "teolemon", "julie-yuka", "beniben" ],
+      "traces_debug_tags": [],
+      "origins_debug_tags": [],
+      "id": "3350033164765",
+      "expiration_date": "20/06/2017",
+      "labels_prev_hierarchy": [ "en:pure-butter", "fr:Fabriqué en Italie" ],
+      "ingredients_text_fr": "Farine de _blé_, sucre, raisins secs 8,9 %, écorces d'orange confites 8,9 % (écorces d'orange 7,8%, sirop de glucose-fructose, sucre, correcteur d'acidité : acide citrique), _beurre_ concentré 8,5 %, eau, levain (farine de _blé_, eau), jaune d'_œuf_, émulsifiant : mono et diglycérides d'acides gras, arôme (contient alcool), sel, arômes naturels.",
+      "emb_codes": "",
+      "update_key": "nova20180918",
+      "labels_tags": [ "en:made-in-italy", "en:pure-butter" ],
+      "additives_prev_original_tags": [ "en:e330", "en:e471" ],
+      "packaging": "Cardboard,Plastic,Box",
+      "ingredients_that_may_be_from_palm_oil_n": 0,
+      "allergens_tags": [ "en:eggs", "en:gluten", "it:burro" ],
+      "product_name_it_debug_tags": [],
+      "ingredients_text": "Farina di _frumento_, zucchero, uva passa 8,9 %, scorza d'arancia candita 8,9 % (scorza d'arancia 7,8 %, sciroppo di glucosio-fruttosio, zucchero, correttore di acidità: acido citrico), _burro_ 8,5 % di concentrato, acqua, lievito (farina di _frumento_, acqua), tuorlo d'_uovo_, emulsionante: mono e digliceridi degli acidi grassi, aroma (contiene alcool), sale, aromi naturali.",
+      "no_nutrition_data": "",
+      "serving_size_debug_tags": [],
+      "lang_debug_tags": [],
+      "link_debug_tags": [],
+      "expiration_date_debug_tags": [],
+      "max_imgid": "1",
+      "image_url": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.400.jpg",
+      "editors_tags": [ "julie-yuka", "openfoodfacts-contributors", "tacite-mass-editor", "beniben", "teolemon" ],
+      "nutrition_data_per_debug_tags": [],
+      "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+      "ingredients_n_tags": [ "21", "21-30" ],
+      "image_front_url": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.400.jpg",
+      "last_image_t": 1448552592,
+      "nutrition_grade_fr": "e",
+      "ingredients_tags": [ "en:wheat-flour", "en:cereal-flour", "it:zucchero", "it:uva-passa", "it:scorza-d-arancia-candita", "it:burro-8-5-di-concentrato", "en:water", "en:yeast", "en:raising-agent", "it:tuorlo-d-uovo", "it:emulsionante", "it:mono-e-digliceridi-degli-acidi-grassi", "en:flavouring", "it:contiene-alcool", "en:salt", "it:aromi-naturali", "it:scorza-d-arancia", "it:sciroppo-di-glucosio-fruttosio", "it:zucchero", "it:correttore-di-acidita", "it:acido-citrico", "en:wheat-flour", "en:cereal-flour", "en:water" ],
+      "purchase_places_tags": [ "france", "nantes" ],
+      "nova_groups_tags": [ "en:4-ultra-processed-food-and-drink-products" ],
+      "quantity_debug_tags": [],
+      "origins": "",
+      "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+      "ingredients_text_debug": "Farina di _frumento_, zucchero, uva passa 8,9 %, scorza d'arancia candita 8,9 % (scorza d'arancia 7,8 %, sciroppo di glucosio-fruttosio, zucchero, correttore di acidità: acido citrico), _burro_ 8,5 % di concentrato, acqua, lievito (farina di _frumento_, acqua), tuorlo d'_uovo_, emulsionante: mono- e digliceridi degli acidi grassi, aroma (contiene alcool), sale, aromi naturali.",
+      "minerals_prev_tags": [],
+      "nutrition_data_prepared": "",
+      "creator": "openfoodfacts-contributors",
+      "selected_images": {
+        "front": {
+          "thumb": {
+            "it": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.100.jpg",
+            "fr": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_fr.13.100.jpg"
+          },
+          "small": {
+            "fr": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_fr.13.200.jpg",
+            "it": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.200.jpg"
+          },
+          "display": {
+            "fr": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_fr.13.400.jpg",
+            "it": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.400.jpg"
+          }
+        }
+      },
+      "ingredients_text_it_debug_tags": [],
+      "brands_tags": [ "monoprix-gourmet", "monoprix" ],
+      "nucleotides_tags": [],
+      "nutrition_data_prepared_per_debug_tags": [],
+      "code": "3350033164765",
+      "categories_prev_hierarchy": [ "en:sugary-snacks", "en:desserts", "en:viennoiseries", "en:brioches", "en:panettone", "it:Biscuits et gâteaux", "it:Gâteaux", "it:Snacks sucrés" ],
+      "origins_tags": [],
+      "product_name_fr_debug_tags": [],
+      "categories_debug_tags": [],
+      "stores_tags": [ "monoprix" ],
+      "ingredients_ids_debug": [ "farina-di-frumento", "zucchero", "uva-passa-8", "9", "scorza-d-arancia-candita-8", "9", "scorza-d-arancia-7", "8", "sciroppo-di-glucosio-fruttosio", "zucchero", "correttore-di-acidita", "acido-citrico", "burro-8", "5-di-concentrato", "acqua", "lievito", "farina-di-frumento", "acqua", "tuorlo-d-uovo", "emulsionante", "mono-e-digliceridi-degli-acidi-grassi", "aroma", "contiene-alcool", "sale", "aromi-naturali" ],
+      "states_hierarchy": [ "en:to-be-completed", "en:nutrition-facts-completed", "en:ingredients-completed", "en:expiration-date-completed", "en:packaging-code-to-be-completed", "en:characteristics-completed", "en:categories-completed", "en:brands-completed", "en:packaging-completed", "en:quantity-completed", "en:product-name-completed", "en:photos-to-be-validated", "en:photos-uploaded" ],
+      "interface_version_created": "20120622",
+      "editors": [ "" ],
+      "correctors_tags": [ "openfoodfacts-contributors", "teolemon", "julie-yuka", "tacite-mass-editor", "beniben" ],
+      "product_name": "Panettone",
+      "additives_prev_n": 2,
+      "traces": "Nuts,Soybeans",
+      "additives_old_tags": [],
+      "_id": "3350033164765",
+      "ingredients_text_with_allergens": "Farina di <span class=\"allergen\">frumento</span>, zucchero, uva passa 8,9 %, scorza d'arancia candita 8,9 % (scorza d'arancia 7,8 %, sciroppo di glucosio-fruttosio, zucchero, correttore di acidità: acido citrico), <span class=\"allergen\">burro</span> 8,5 % di concentrato, acqua, lievito (farina di <span class=\"allergen\">frumento</span>, acqua), tuorlo d'<span class=\"allergen\">uovo</span>, emulsionante: mono e digliceridi degli acidi grassi, aroma (contiene alcool), sale, aromi naturali.",
+      "categories_prev_tags": [ "en:sugary-snacks", "en:desserts", "en:viennoiseries", "en:brioches", "en:panettone", "it:biscuits-et-gateaux", "it:gateaux", "it:snacks-sucres" ],
+      "labels_prev_tags": [ "en:pure-butter", "fr:fabrique-en-italie" ],
+      "labels": "fr:Pur beurre,fr:Fabriqué en Italie",
+      "ingredients_that_may_be_from_palm_oil_tags": [],
+      "misc_tags": [ "en:nutrition-no-fruits-vegetables-nuts", "en:nutrition-no-fiber-or-fruits-vegetables-nuts", "en:nutriscore-computed" ],
+      "additives_original_tags": [ "en:e330", "en:e471" ],
+      "languages": {
+        "en:french": 4,
+        "en:italian": 3
+      },
+      "ingredients_hierarchy": [ "en:wheat-flour", "en:cereal-flour", "it:zucchero", "it:uva passa", "it:scorza d'arancia candita", "it:_burro_ 8.5% di concentrato", "en:water", "en:yeast", "en:raising-agent", "it:tuorlo d'_uovo_", "it:emulsionante", "it:mono e digliceridi degli acidi grassi", "en:flavouring", "it:contiene alcool", "en:salt", "it:aromi naturali", "it:scorza d'arancia", "it:sciroppo di glucosio-fruttosio", "it:zucchero", "it:correttore di acidità", "it:acido citrico", "en:wheat-flour", "en:cereal-flour", "en:water" ],
+      "ingredients_n": 21,
+      "vitamins_prev_tags": [],
+      "amino_acids_prev_tags": [],
+      "additives_n": 2,
+      "nutrient_levels": {
+        "fat": "moderate",
+        "sugars": "high",
+        "saturated-fat": "high",
+        "salt": "moderate"
+      },
+      "nova_groups": 4,
+      "nutrition_score_warning_no_fruits_vegetables_nuts": 1,
+      "countries_hierarchy": [ "en:france" ],
+      "photographers_tags": [ "openfoodfacts-contributors" ],
+      "countries_tags": [ "en:france" ],
+      "traces_from_ingredients": "",
+      "cities_tags": [],
+      "generic_name": "",
+      "allergens_hierarchy": [ "en:eggs", "en:gluten", "it:burro" ],
+      "unknown_ingredients_n": 14,
+      "pnns_groups_1_tags": [ "sugary-snacks" ],
+      "codes_tags": [ "code-13", "3350033164765", "335003316476x", "33500331647xx", "3350033164xxx", "335003316xxxx", "33500331xxxxx", "3350033xxxxxx", "335003xxxxxxx", "33500xxxxxxxx", "3350xxxxxxxxx", "335xxxxxxxxxx", "33xxxxxxxxxxx", "3xxxxxxxxxxxx" ],
+      "url": "https://ssl-api.openfoodfacts.org/product/3350033164765/panettone-monoprix-gourmet",
+      "nutrition_grades_tags": [ "e" ],
+      "ingredients": [
+        {
+          "text": "Farina di _frumento_",
+          "id": "en:wheat-flour",
+          "rank": 1
+        },
+        {
+          "text": "zucchero",
+          "id": "it:zucchero",
+          "rank": 2
+        },
+        {
+          "percent": "8.9",
+          "rank": 3,
+          "id": "it:uva passa",
+          "text": "uva passa"
+        },
+        {
+          "text": "scorza d'arancia candita",
+          "id": "it:scorza d'arancia candita",
+          "rank": 4,
+          "percent": "8.9"
+        },
+        {
+          "text": "_burro_ 8.5% di concentrato",
+          "id": "it:_burro_ 8.5% di concentrato",
+          "rank": 5
+        },
+        {
+          "rank": 6,
+          "text": "acqua",
+          "id": "en:water"
+        },
+        {
+          "id": "en:yeast",
+          "text": "lievito",
+          "rank": 7
+        },
+        {
+          "id": "it:tuorlo d'_uovo_",
+          "text": "tuorlo d'_uovo_",
+          "rank": 8
+        },
+        {
+          "id": "it:emulsionante",
+          "text": "emulsionante",
+          "rank": 9
+        },
+        {
+          "text": "mono e digliceridi degli acidi grassi",
+          "rank": 10,
+          "id": "it:mono e digliceridi degli acidi grassi"
+        },
+        {
+          "id": "en:flavouring",
+          "text": "aroma",
+          "rank": 11
+        },
+        {
+          "rank": 12,
+          "id": "it:contiene alcool",
+          "text": "contiene alcool"
+        },
+        {
+          "text": "sale",
+          "rank": 13,
+          "id": "en:salt"
+        },
+        {
+          "text": "aromi naturali",
+          "id": "it:aromi naturali",
+          "rank": 14
+        },
+        {
+          "id": "it:scorza d'arancia",
+          "text": "scorza d'arancia",
+          "percent": "7.8"
+        },
+        {
+          "text": "sciroppo di glucosio-fruttosio",
+          "id": "it:sciroppo di glucosio-fruttosio"
+        },
+        {
+          "text": "zucchero",
+          "id": "it:zucchero"
+        },
+        {
+          "text": "correttore di acidità",
+          "id": "it:correttore di acidità"
+        },
+        {
+          "id": "it:acido citrico",
+          "text": "acido citrico"
+        },
+        {
+          "text": "farina di _frumento_",
+          "id": "en:wheat-flour"
+        },
+        {
+          "text": "acqua",
+          "id": "en:water"
+        }
+      ],
+      "nutrient_levels_tags": [ "en:fat-in-moderate-quantity", "en:saturated-fat-in-high-quantity", "en:sugars-in-high-quantity", "en:salt-in-moderate-quantity" ],
+      "additives_debug_tags": [],
+      "manufacturing_places": "Italy",
+      "traces_tags": [ "en:nuts", "en:soybeans" ],
+      "entry_dates_tags": [ "2015-11-26", "2015-11", "2015" ],
+      "categories_tags": [ "en:sugary-snacks", "en:desserts", "en:viennoiseries", "en:brioches", "en:panettone", "it:biscuits-et-gateaux", "it:gateaux", "it:snacks-sucres" ],
+      "sortkey": 528179076,
+      "nova_group": 4,
+      "labels_debug_tags": [ "added-en-made-in-italy", "removed-fr-fabrique-en-italie" ],
+      "generic_name_it": "",
+      "emb_codes_20141016": "",
+      "nucleotides_prev_tags": [],
+      "serving_quantity": 0,
+      "debug_param_sorted_langs": [ "it", "fr" ],
+      "images": {
+        "front_it": {
+          "x1": "23.63671875",
+          "y1": "68.16796875",
+          "imgid": "1",
+          "normalize": "false",
+          "x2": "287.828125",
+          "y2": "355.58203125",
+          "sizes": {
+            "400": {
+              "w": 368,
+              "h": 400
+            },
+            "200": {
+              "h": 200,
+              "w": 184
+            },
+            "full": {
+              "w": 1761,
+              "h": 1915
+            },
+            "100": {
+              "w": "92",
+              "h": "100"
+            }
+          },
+          "white_magic": "false",
+          "angle": "0",
+          "geometry": "1761x1915-157-454",
+          "rev": "12"
+        },
+        "1": {
+          "uploaded_t": "1448552591",
+          "uploader": "openfoodfacts-contributors",
+          "sizes": {
+            "400": {
+              "w": 300,
+              "h": 400
+            },
+            "100": {
+              "w": 75,
+              "h": 100
+            },
+            "full": {
+              "w": 2000,
+              "h": 2666
+            }
+          }
+        },
+        "front_fr": {
+          "angle": "0",
+          "geometry": "1703x1972-163-444",
+          "rev": "13",
+          "white_magic": "false",
+          "sizes": {
+            "400": {
+              "w": 345,
+              "h": 400
+            },
+            "200": {
+              "w": 173,
+              "h": 200
+            },
+            "100": {
+              "w": 86,
+              "h": 100
+            },
+            "full": {
+              "h": 1972,
+              "w": 1703
+            }
+          },
+          "y2": "362.5546875",
+          "x2": "279.9765625",
+          "x1": "24.5703125",
+          "y1": "66.66015625",
+          "imgid": "1",
+          "normalize": "false"
+        },
+        "front": {
+          "sizes": {
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "full": {
+              "w": 2000,
+              "h": 2666
+            },
+            "100": {
+              "w": 75,
+              "h": 100
+            }
+          },
+          "rev": "5",
+          "geometry": "0x0--6--6",
+          "white_magic": null,
+          "normalize": null,
+          "imgid": "1"
+        }
+      },
+      "allergens_from_ingredients": "frumento, burro, frumento, uovo",
+      "image_thumb_url": "https://static.openfoodfacts.org/images/products/335/003/316/4765/front_it.12.100.jpg",
+      "additives_prev_tags": [ "en:e330", "en:e471" ],
+      "stores_debug_tags": [],
+      "nutrition_data": "on",
+      "allergens": "frumento, burro, frumento, uovo",
+      "countries_debug_tags": [],
+      "packaging_debug_tags": [],
+      "ingredients_text_fr_debug_tags": [],
+      "ingredients_from_palm_oil_tags": [],
+      "labels_hierarchy": [ "en:made-in-italy", "en:pure-butter" ],
+      "amino_acids_tags": [],
+      "stores": "Monoprix"
+    }
+  ],
+  "count": 1,
+  "page_size": 20,
+  "page": 1
+}

@@ -5,7 +5,7 @@ using OpenFoodFacts.Product;
 using System;
 using System.Net.Http;
 
-namespace OpenFoodFacts.Test
+namespace OpenFoodFacts.Test.Product
 {
     [TestClass]
     public class ProductDataTest
